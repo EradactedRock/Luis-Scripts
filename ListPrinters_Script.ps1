@@ -1,4 +1,8 @@
-#This script lists all printers installed on the local machine. It can optionally save the output to a specified file.
+# This script retrieves a list of all printers installed on the local machine, along with their key details such as driver, port, and IP address if available. 
+# It optionally saves this information to a specified output file. 
+# If an output file is provided, the script creates the target folder if it does not exist and appends the printer data with a timestamp. 
+# If no output file is specified, it displays the printer list in a formatted table in the console.
+
 
 param (
     [string]$OutputFile

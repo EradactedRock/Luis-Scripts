@@ -20,9 +20,3 @@ Explore the folders and files to find scripts and tools tailored for specific fu
 ## Contributing
 
 Contributions and suggestions for improvement are welcome! Feel free to open issues or submit pull requests.
-
-## License
-
-Specify your preferred license here (e.g., MIT License).
-
----
